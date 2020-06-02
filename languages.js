@@ -35,4 +35,8 @@ module.exports = languages = [
         name: "日本語 (Japan)",
         value: "ja",
     },
+    {
+        name: "Svenska",
+        value: "sv",
+    },
 ]
